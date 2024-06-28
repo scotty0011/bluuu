@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408839918009",
+    "project_id": "bluuu-app",
+    "storage_bucket": "bluuu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408839918009:android:d07dc3874d3061aaa6e668",
+        "android_client_info": {
+          "package_name": "com.houseofdev.blue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc0D-J3KUigg3L3fbIZzY_Y3jlQi9vzPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
